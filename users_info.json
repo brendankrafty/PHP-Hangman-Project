@@ -1,0 +1,27 @@
+[
+    {
+        "uid": "Professor Chu",
+        "pwd": "$2y$10$21VVgRDdhQy84Bd.8D10z.odwgNcp6ONS4sho2KBWQtNex\/CgB89a",
+        "wins": 1738
+    },
+    {
+        "uid": "Justin",
+        "pwd": "$2y$10$LI0a3yDKL33nE3rOJxOJDuvtzPPlXUHPaHUz.s6AQbh.XSfZipRLW",
+        "wins": 69
+    },
+    {
+        "uid": "Brendan",
+        "pwd": "$2y$10$LI0a3yDKL33nE3rOJxOJDuvtzPPlXUHPaHUz.s6AQbh.XSfZipRLW",
+        "wins": 420
+    },
+    {
+        "uid": "Mohammad",
+        "pwd": "$2y$10$LI0a3yDKL33nE3rOJxOJDuvtzPPlXUHPaHUz.s6AQbh.XSfZipRLW",
+        "wins": 135
+    },
+    {
+        "uid": "beef",
+        "pwd": "$2y$10$9fbCC0v.ttkPhDJP2vrBj.1qZTrbMlaCZZ1KMd2DvBk3kEIuWjMHi",
+        "wins": 0
+    }
+]

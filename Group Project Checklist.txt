@@ -1,0 +1,46 @@
+Group Project Tasks
+
+
+- Choose Leader
+- Choose Team Name
+- Choose Project Name
+- Choose Responsibilities ([designer/programmer/tester] , [architect/programmers])
+- Choose Presenter(s)
+- Meeting Log
+
+- Sketch out user interface (pseudocode for the program)
+
+- Implement Code -- Must use: Transforms, Transitions, Animations, 
+					Nice fonts, Colors, Images, Layout, 
+					Consistency, 
+					Complexity(several divs), 
+					Easy-to-use, 
+					Cookies/Sessions, 
+					Form processing, 
+					Login/registration for users, 
+					4 levels of Hangman, 
+					CSS/PHP ONLY!
+
+- PowerPoint intro slideshow 
+	Include:
+		.Statement of problem
+		.requirements to solve
+		.Input/output expectation
+		.The plan to solve
+		.UML Class Diagram
+		.UI Sketch
+		.Overview of solution
+		.Testing Overview/Bugs found and fixed
+		.1 slide showing how Scrum framework benefitted the project
+
+- Demo (Live or Video)
+
+- PowerPoint outro slideshow showing and explaining the source code
+
+- Summary Webpage (with a presentable styled div)
+
+- Copy to CODD Server (all of us)
+- Upload to GitHub (all of us)
+- Submit link to iCollege (all of us)
+
+*In total should be 10-15 mins
